@@ -22,4 +22,4 @@ I'm [Suyatna](https://twitter.com/zuyatna), a mobile developer who trying to imp
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuyatna&show_icons=true&layout=compact&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![zuyatna's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zuyatna&show_icons=true&layout=compact&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![zuyatna's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zuyatna)](https://github.com/anuraghazra/github-readme-stats)
