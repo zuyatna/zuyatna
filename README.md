@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**zuyatna/zuyatna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Suyatna](https://twitter.com/zuyatna), a mobile developer who trying to improve my knowledge and skill, and become fantastic programmer.
+<br/>
+<br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🗼 Living in **Bekasi, West Java, Indonesia**
+
+- 👨‍💻 Currently Working as Freelancer
+
+- 👍 Cat and Gaming 🐈 🎮
+
+- ✈️ Open to Remote Job Opportunities 🍻
+
+<br/>
+
+### 📈 GitHub Stats
+
+[![Suyatna's github stats](https://github-readme-stats.vercel.app/api?username=zuyatna&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuyatna&show_icons=true&layout=compact&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
