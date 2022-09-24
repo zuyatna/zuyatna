@@ -5,7 +5,7 @@ I'm [Suyatna](https://twitter.com/zuyatna), a mobile developer who trying to imp
 <br/>
 
 
-- 🗼 Living in **West Java, Indonesia**
+- 🗼 Living in **Bandung, Indonesia**
 
 - 👨‍💻 Currently Working as Freelancer
 
@@ -16,8 +16,6 @@ I'm [Suyatna](https://twitter.com/zuyatna), a mobile developer who trying to imp
 
 ### 📈 GitHub Stats
 
-[![Suyatna's github stats](https://github-readme-stats.vercel.app/api?username=zuyatna&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
+<p><img src="https://github-readme-stats.vercel.app/api?username=zuyatna&show_icons=true&theme=nightowl&locale=en" alt="zuyatna" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuyatna&langs_count=6&hide=javascript,html,shaderlab,hlsl,pascal&show_icons=true&layout=compact&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zuyatna&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="zuyatna" /></p>
