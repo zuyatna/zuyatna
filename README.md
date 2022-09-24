@@ -16,6 +16,6 @@ I'm [Suyatna](https://twitter.com/zuyatna), a mobile developer who trying to imp
 
 ### 📈 GitHub Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=zuyatna&show_icons=true&theme=nightowl&locale=en" alt="zuyatna" /></p>
+<p><img src="https://github-stats-alpha.vercel.app/api?username=zuyatna" alt="zuyatna" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zuyatna&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="zuyatna" /></p>
