@@ -5,13 +5,12 @@ I'm [Suyatna](https://twitter.com/zuyatna), a mobile developer who trying to imp
 <br/>
 
 
-- 🗼 Living in **Bekasi, West Java, Indonesia**
+- 🗼 Living in **West Java, Indonesia**
 
 - 👨‍💻 Currently Working as Freelancer
 
 - 👍 Cat and Gaming 🐈 🎮
 
-- ✈️ Open to Remote Job Opportunities 🍻
 
 <br/>
 
