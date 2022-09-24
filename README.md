@@ -18,4 +18,4 @@ I'm [Suyatna](https://twitter.com/zuyatna), a mobile developer who trying to imp
 
 ![Suyatna's GitHub stats](https://github-stats-alpha.vercel.app/api?username=zuyatna)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zuyatna&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="zuyatna" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuyatna&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
