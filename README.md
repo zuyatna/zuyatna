@@ -5,7 +5,7 @@ I'm [Suyatna](https://twitter.com/zuyatna), a mobile developer who trying to imp
 <br/>
 
 
-- 🗼 Living in **Bandung, Indonesia**
+- 🗼 Living in **Bandung, West Java, Indonesia**
 
 - 👨‍💻 Currently Working as Unity Programmer at PT. Strayflux Kreasi Digital
 
