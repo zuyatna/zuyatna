@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Suyatna](https://twitter.com/zuyatna), a mobile developer who trying to improve my knowledge and skill, and become fantastic programmer.
+I'm [Suyatna](https://twitter.com/zuyatna), a Game Developer who trying to improve my knowledge and skill, and become fantastic programmer.
 <br/>
 <br/>
 
