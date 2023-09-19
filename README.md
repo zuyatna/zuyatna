@@ -7,7 +7,7 @@ I'm [Suyatna](https://twitter.com/zuyatna), a Game Developer who trying to impro
 
 - 🗼 Living in **Bandung, West Java, Indonesia**
 
-- 👨‍💻 Currently Working as Unity Programmer at PT. Strayflux Kreasi Digital/Salt Game Studio
+- 👨‍💻 Currently Working at PT. Strayflux Kreasi Digital/Salt Game Studio
 
 - 👍 Cat and Gaming 🐈 🎮
 
