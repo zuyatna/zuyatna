@@ -7,7 +7,7 @@ I'm [Suyatna](https://twitter.com/zuyatna), a Game Developer who trying to impro
 
 - 🗼 Living in **Bandung, West Java, Indonesia**
 
-- 👨‍💻 Currently Working at PT. Strayflux Kreasi Digital/Strayflux Studio
+- 👨‍💻 Currently Working at PT. Strayflux Kreasi Digital a.k.a Strayflux Studio
 
 - 👍 Cat and Gaming 🐈 🎮
 
