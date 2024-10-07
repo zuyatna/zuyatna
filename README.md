@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-I'm [Suyatna](https://twitter.com/zuyatna), a Game Developer who trying to improve my knowledge and skill, and become fantastic programmer.
+My name is Suyatna, I am a Programmer who (still) trying to improve my knowledge and skill to become fantastic programmer.
 <br/>
 <br/>
 
 
-- 🗼 Living in **Bandung, West Java, Indonesia**
+- 🗼 Livin' in **Bandung, West Java, Indonesia**
 
 - 👨‍💻 Currently Working at PT. Strayflux Kreasi Digital a.k.a Strayflux Studio
 
-- 👍 Cat and Gaming 🐈 🎮
+- 🎮 Gaming and Anime
 
 
 <br/>
