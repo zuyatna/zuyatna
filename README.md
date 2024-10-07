@@ -18,6 +18,6 @@ My name is Suyatna, I am a Programmer who (still) trying to improve my knowledge
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default)
 
-[![zuyatna's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zuyatna&layout=compact)]
+[![zuyatna's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zuyatna&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://komarev.com/ghpvc/?username=zuyatna&color=blue&style=flat-square&label=visitors" align="right" />
