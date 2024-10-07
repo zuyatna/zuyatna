@@ -18,6 +18,6 @@ My name is Suyatna, I am a Programmer who (still) trying to improve my knowledge
 
 ![zuyatna's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuyatna&show_icons=true&bg_color=00000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuyatna&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuyatna&layout=compact)
 
 <img src="https://komarev.com/ghpvc/?username=zuyatna&color=blue&style=flat-square&label=visitors" align="right" />
