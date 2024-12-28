@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Suyatna. Currently I'm a bootcamp participant at Hacktiv8, I study about backend developer.
+My name is Suyatna. Currently, I'm a bootcamp participant at Hacktiv8, I studying backend development.
 <br/>
 <br/>
 
