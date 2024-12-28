@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-My name is Suyatna, I am a Programmer who (still) trying to improve my knowledge and skill to become fantastic programmer.
+My name is Suyatna. Currently I'm a bootcamp participant at Hacktiv8, I study about backend developer.
 <br/>
 <br/>
 
 
-- 🗼 Livin' in **Bandung, West Java, Indonesia**
+- 🗼 Livin' in **Bekasi, West Java, Indonesia**
 
-- 👨‍💻 Currently Working at PT. Strayflux Kreasi Digital a.k.a Strayflux Studio
+- 👨‍💻 Open to freelance
 
-- 🎮 Gaming and Anime
+- 🎮 Gaming, animes, series, and movies
 
 
 <br/>
