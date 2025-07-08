@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-My name is Suyatna. Currently, I'm a bootcamp participant at Hacktiv8, I studying backend development.
+My name is Suyatna. Currently, I am working at Bank Republik Indonesia (BRI) as Golang Developer.
 <br/>
 <br/>
 
 
 - 🗼 Livin' in **Bekasi, West Java, Indonesia**
 
-- 👨‍💻 Open to freelance
+- 👨‍💻 BEKUP Create 2025 Participant
 
-- 🎮 Gaming, animes, series, and movies
+- 🎮 Wuthering Waves
 
 
 <br/>
