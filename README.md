@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Suyatna. Currently, I am working at PT Bank Rakyat Indonesia (Persero) Tbk as Golang Developer.
+My name is Suyatna. Currently, I am working at PT Bank Rakyat Indonesia (Persero) Tbk as Back-End Developer.
 <br/>
 <br/>
 
